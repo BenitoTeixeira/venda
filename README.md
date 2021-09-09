@@ -1,2 +1,0 @@
-# venda
-venda de lanches 
